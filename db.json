@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+        "name": "GeoPOZ Map Application",
+        "appId": "GeoPOZ",
+        "url": "https://vignette.wikia.nocookie.net/poznan/images/1/1c/Logotypzgikmgeopoz1.png/revision/latest?cb=20140810072937&path-prefix=pl",
+        "href": "kk"
+    },
+    {
+        "name": "ConsumerPortalmap",
+        "appId": "Consumerportal",
+        "url": "https://image.shutterstock.com/image-vector/abstract-hexagon-logo-design-260nw-607882415.jpg",
+        "href": "kkk"
+    }
+  ]
+}
