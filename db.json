@@ -24,10 +24,12 @@
         "href": "http://148.53.130.107/GeoPOZ/",
 		"layouts": [
 			{
-				"name": "Layout1"
+				"name": "Layout1",
+				"value": "layout1.aspx"
 			},
 			{
-				"name": "Layout2"
+				"name": "Layout2",
+				"value": "Layot2.aspx"
 			}
 		],
 		"gpms": []
