@@ -2,7 +2,7 @@
   "apps": [
     {
         "name": "Inna aplikacja 1",
-        "appId": "GeoPOZ",
+        "appId": "GeoPOZ1",
         "url": "https://vignette.wikia.nocookie.net/poznan/images/1/1c/Logotypzgikmgeopoz1.png/revision/latest?cb=20140810072937&path-prefix=pl",
         "href": "http://148.53.130.107/GeoPOZ/",
 		"layouts": [],
@@ -19,7 +19,7 @@
     },
     {
         "name": "Inna aplikacja 2",
-        "appId": "Consumerportal",
+        "appId": "Consumerportal1",
         "url": "https://image.shutterstock.com/image-vector/abstract-hexagon-logo-design-260nw-607882415.jpg",
         "href": "http://148.53.130.107/GeoPOZ/",
 		"layouts": [
@@ -34,7 +34,7 @@
     },
 	    {
         "name": "Inna aplikacja 3",
-        "appId": "Consumerportal1",
+        "appId": "Consumerportal2",
         "url": "https://image.shutterstock.com/image-vector/abstract-hexagon-logo-design-260nw-607882415.jpg",
         "href": "http://148.53.130.107/GeoPOZ/",
 		"layouts": [
