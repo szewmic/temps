@@ -1,16 +1,51 @@
 {
   "apps": [
     {
-        "name": "GeoPOZ Map Application",
+        "name": "Inna aplikacja 1",
         "appId": "GeoPOZ",
         "url": "https://vignette.wikia.nocookie.net/poznan/images/1/1c/Logotypzgikmgeopoz1.png/revision/latest?cb=20140810072937&path-prefix=pl",
-        "href": "kk"
+        "href": "http://148.53.130.107/GeoPOZ",
+		"layouts": [],
+		"gpms": [
+			{	
+				"name":"Mapa startowa 1",
+				"id":"8569212c-7622-4716-8f2f-ecdeb73b8ca4"
+			}
+			{	
+				"name":"Mapa startowa 2",
+				"id":"8569212c-7622-4716-8f2f-ecdeb73b8ca4"
+			}
+		]
     },
     {
-        "name": "ConsumerPortalmap",
+        "name": "Inna aplikacja 2",
         "appId": "Consumerportal",
         "url": "https://image.shutterstock.com/image-vector/abstract-hexagon-logo-design-260nw-607882415.jpg",
-        "href": "kkk"
+        "href": "http://148.53.130.107/GeoPOZ",
+		"layouts": [
+			{
+				"name": "Layout1"
+			},
+			{
+				"name": "Layout2"
+			}
+		],
+		"gpms": []
+    },
+	    {
+        "name": "Inna aplikacja 3",
+        "appId": "Consumerportal",
+        "url": "https://image.shutterstock.com/image-vector/abstract-hexagon-logo-design-260nw-607882415.jpg",
+        "href": "http://148.53.130.107/GeoPOZ",
+		"layouts": [
+		],
+		"gpms": [
+			{	
+				"name":"Mapa startowa x",
+				"id":"8569212c-7622-4716-8f2f-ecdeb73b8ca4"
+			}
+		]
     }
+	
   ]
 }
