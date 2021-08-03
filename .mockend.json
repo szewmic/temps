@@ -2,7 +2,10 @@
   "Raport": {
     "department": { "string": {} },
     "objectId": { "string": {} },
-    "raportName": { "string": {} }
+    "raportName": { "string": {} },
+    "whatever": {
+      "belongsTo": "Data"
+    }
   },
    "Data": {
     "data": {
