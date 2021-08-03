@@ -1,9 +1,15 @@
 {
-  "Data": {
-      "hasMany": "Raport"
-  },
   "Raport": {
     "department": { "string": {} },
-    "belongsTo": "Data"
+    "objectId": { "string": {} },
+    "raportName": { "string": {} },
+    "data": {
+      "belongsTo": "Data"
+    }
+  },
+   "Data": {
+    "data": {
+      "hasMany": "Raport"
+    }
   }
 }
